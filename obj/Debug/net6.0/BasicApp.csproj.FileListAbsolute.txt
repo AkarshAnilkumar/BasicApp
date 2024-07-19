@@ -1,0 +1,15 @@
+C:\OneDrive - H&R BLOCK LTD\Desktop\Training\BasicApp\bin\Debug\net6.0\BasicApp.exe
+C:\OneDrive - H&R BLOCK LTD\Desktop\Training\BasicApp\bin\Debug\net6.0\BasicApp.deps.json
+C:\OneDrive - H&R BLOCK LTD\Desktop\Training\BasicApp\bin\Debug\net6.0\BasicApp.runtimeconfig.json
+C:\OneDrive - H&R BLOCK LTD\Desktop\Training\BasicApp\bin\Debug\net6.0\BasicApp.dll
+C:\OneDrive - H&R BLOCK LTD\Desktop\Training\BasicApp\bin\Debug\net6.0\ref\BasicApp.dll
+C:\OneDrive - H&R BLOCK LTD\Desktop\Training\BasicApp\bin\Debug\net6.0\BasicApp.pdb
+C:\OneDrive - H&R BLOCK LTD\Desktop\Training\BasicApp\obj\Debug\net6.0\BasicApp.csproj.AssemblyReference.cache
+C:\OneDrive - H&R BLOCK LTD\Desktop\Training\BasicApp\obj\Debug\net6.0\BasicApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\OneDrive - H&R BLOCK LTD\Desktop\Training\BasicApp\obj\Debug\net6.0\BasicApp.AssemblyInfoInputs.cache
+C:\OneDrive - H&R BLOCK LTD\Desktop\Training\BasicApp\obj\Debug\net6.0\BasicApp.AssemblyInfo.cs
+C:\OneDrive - H&R BLOCK LTD\Desktop\Training\BasicApp\obj\Debug\net6.0\BasicApp.csproj.CoreCompileInputs.cache
+C:\OneDrive - H&R BLOCK LTD\Desktop\Training\BasicApp\obj\Debug\net6.0\BasicApp.dll
+C:\OneDrive - H&R BLOCK LTD\Desktop\Training\BasicApp\obj\Debug\net6.0\ref\BasicApp.dll
+C:\OneDrive - H&R BLOCK LTD\Desktop\Training\BasicApp\obj\Debug\net6.0\BasicApp.pdb
+C:\OneDrive - H&R BLOCK LTD\Desktop\Training\BasicApp\obj\Debug\net6.0\BasicApp.genruntimeconfig.cache
